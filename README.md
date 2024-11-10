@@ -2,10 +2,6 @@
 
 Set up a CI/CD pipeline for a PHP project that extracts PDF metadata and exports it to an Excel spreadsheet. The pipeline includes:
 
-	- Dockerized environment for hosting the PHP program.
-	- A self-hosted runner.
-	- PHPStan for static analysis.
-
 The contents of the GitHub Actions YAML file are included below:
 
 ```

@@ -53,3 +53,6 @@ jobs:
       env:
         EMAIL_KEY: ${{ secrets.EMAIL_KEY }}
 ```
+
+
+<img width="856" alt="Screenshot 2024-11-09 at 10 49 16 PM" src="https://github.com/user-attachments/assets/d639d1d7-af69-4483-8515-86ee969bab60">

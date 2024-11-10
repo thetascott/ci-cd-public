@@ -1,4 +1,4 @@
-# GitHub Actions CI-CD pipeline 
+# GitHub Actions CI/CD pipeline 
 
 Set up a CI/CD pipeline for a PHP project that extracts PDF metadata and exports it to an Excel spreadsheet. The pipeline includes:
 

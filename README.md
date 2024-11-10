@@ -1,6 +1,12 @@
 # GitHub Actions CI-CD pipeline 
 
-Setup a CI-CD pipeline for a PHP project that reads PDF meta data and outputs the meta data to an Excel spreadsheet. Utilized Docker to host the PHP program, setup a self-hosted runner and PHPStan. The GitHub Actions Yaml file contents are below:
+Set up a CI/CD pipeline for a PHP project that extracts PDF metadata and exports it to an Excel spreadsheet. The pipeline includes:
+
+	•	Dockerized environment for hosting the PHP program.
+	•	A self-hosted runner.
+	•	PHPStan for static analysis.
+
+The contents of the GitHub Actions YAML file are included below:
 
 ```
 name: PHP Composer
